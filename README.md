@@ -8,4 +8,9 @@
 应用服务器使用glassfish<br>
 显示层使用freemarker<br>
 <br>
+team : zhaokai<br><br>
+2015年5月21日 11:05:48 修改<br>
+终止使用maven管理项目<br>
+应用服务器修改使用tomcat<br>
+
 team : zhaokai<br>
